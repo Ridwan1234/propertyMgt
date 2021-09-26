@@ -1,0 +1,1 @@
+<a  href="{{ route('admin.invoice.show',$invoice->invoicable_month)}}" class="btn btn-primary width-xs waves-effect waves-light">List All</a>

@@ -1,0 +1,62 @@
+<?php
+
+return array (
+  'Add Bill' => 'Ajouter une facture',
+  'Add New Bill' => 'Ajouter une nouvelle facture',
+  'Add New Included Bill' => 'Ajouter une nouvelle facture incluse',
+  'Add New Lease' => 'Ajouter un nouveau bail',
+  'Amount' => 'Montant',
+  'Attachments' => 'Pièces jointes',
+  'Back to Leases Listing' => 'Retour à la liste des baux',
+  'Bill Amount' => 'Montant de la facture',
+  'Bill Name' => 'Nom de la facture',
+  'Bills' => 'Factures',
+  'Close' => 'proche',
+  'Complete all the required details' => 'Complétez tous les détails requis',
+  'Create Lease' => 'Créer un bail',
+  'Delete Lease' => 'Supprimer le bail',
+  'Deposit Paid' => 'Dépôt payé',
+  'Edit Lease' => 'Modifier le bail',
+  'End Date' => 'Date de fin',
+  'Ensure you have filled all required details!' => 'Assurez-vous d\'avoir rempli tous les détails requis!',
+  'Finalize Lease' => 'Finaliser le bail',
+  'Include/Exclude bills when generating invoice' => 'Inclure / exclure les factures lors de la génération de la facture',
+  'Lease Bills' => 'Bons de location',
+  'Lease Details' => 'Détails du bail',
+  'Lease Documents' => 'Documents de location',
+  'Lease End Date' => 'Date de fin de bail',
+  'Lease Included Bills' => 'Frais de location inclus',
+  'Lease Start Date' => 'Date de début du bail',
+  'Lease Units' => 'Unités de location',
+  'Leases / Tenancy' => 'Baux / Location',
+  'Monthly Rent' => 'Loyer mensuel',
+  'Name' => 'Nom',
+  'New Lease' => 'Nouveau bail',
+  'Property Leased' => 'Propriété louée',
+  'Property Unit' => 'Unité de propriété',
+  'Rent' => 'Location',
+  'Select Property' => 'Sélectionnez la propriété',
+  'Select Tenant' => 'Sélectionnez un locataire',
+  'Select bill' => 'Sélectionnez la facture',
+  'Start Date' => 'Date de début',
+  'Tenancy Terms' => 'Conditions de location',
+  'Tenant' => 'Locataire',
+  'Tenant ID' => 'ID du locataire',
+  'Tenant Name' => 'Nom du locataire',
+  'This lease agreement has all its bills settled by tenant. If you wish to include
+                                    a bill,add
+                                    it via button above.' => 'Ce contrat de location a toutes ses factures réglées par le locataire. Si vous souhaitez inclure une facture, ajoutez-la via le bouton ci-dessus.',
+  'This tenancy does not have any files associated' => 
+  array (
+    'Consider uploading some
+                                now' => 
+    array (
+      '' => 'Aucun fichier n\'est associé à cette location. Pensez à en télécharger quelques-uns maintenant.',
+    ),
+  ),
+  'Type' => 'Type',
+  'Update Lease' => 'Mettre à jour le bail',
+  'Upload Document' => 'Télécharger le document',
+  'Upload Lease Documents' => 'Télécharger les documents de location',
+  'Upload New Document' => 'Télécharger un nouveau document',
+);

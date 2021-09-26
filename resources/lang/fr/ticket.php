@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'Add Ticket' => 'Ajouter un ticket',
+  'Assign To' => 'Affecter à',
+  'Assignee' => 'Cessionnaire',
+  'Back' => 'Arrière',
+  'Close' => 'proche',
+  'Create New Ticket' => 'Créer un nouveau ticket',
+  'Create Ticket' => 'Créer un ticket',
+  'Created Date' => 'Date de création',
+  'Default Responder' => 'Répondeur par défaut',
+  'Delete Ticket' => 'Supprimer le ticket',
+  'Detail Ticket' => 'Détail Ticket',
+  'Discussion' => 'Discussion',
+  'Manage Tickets' => 'Gérer les billets',
+  'Message / Task / Description' => 'Message / Tâche / Description',
+  'Old' => 'Vieux',
+  'Priority' => 'Priorité',
+  'Recent' => 'Récent',
+  'Requested By' => 'Demandé par',
+  'Role:' => 'Rôle:',
+  'Send Reply' => 'Envoyer la réponse',
+  'Status' => 'Statut',
+  'Subject' => 'Matière',
+  'Tickets' => 'Des billets',
+);

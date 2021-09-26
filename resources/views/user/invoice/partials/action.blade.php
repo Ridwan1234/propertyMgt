@@ -1,0 +1,1 @@
+<a href="{{ route('user.invoice.show',$invoice->id)}}" class="btn btn-xs btn-primary waves-effect waves-light">Details</a>
